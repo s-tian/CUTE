@@ -203,11 +203,12 @@ The dataset can be used for a variety of tasks that image data in general can be
 
 ### Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?
 
-N/A
+The dataset is composed of objects that were acquired in a constrained geographic region near Stanford University in California, and is a biased sample of all possible objects in the world.
+In-the-wild data was also collected in this geographic area, influencing the particular weather, lighting conditions, and surroundings that appear in those images. 
 
 ### Are there tasks for which the dataset should not be used?
 
-N/A
+The dataset should not be used as training data for applications that involve generalization to many objects or settings. In general, this dataset is meant as a test set. 
 
 ### Any other comments?
 

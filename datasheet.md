@@ -1,5 +1,5 @@
 # Datasheet for dataset "Common paired objects Under differenT Extrinsics"
-## Accompanying Platonic Distance: Intrinsic Object-Centric Image Similarity
+## Accompanying Are These the Same Apple? Comparing Images Based on Object Intrinsics
 
 Questions from the [Datasheets for Datasets](https://arxiv.org/abs/1803.09010) paper, v7.
 
@@ -21,7 +21,7 @@ about funding interests._
 
 ### For what purpose was the dataset created? 
 
-We wanted to study the problem of measuring the visual similarity of object intrinsics that define its identity. To benchmark how well ours and existing approaches can measure these Platonic Distances, we collected this dataset.
+We wanted to study the problem of measuring the visual similarity of object intrinsics that define its identity. To benchmark how well ours and existing approaches can measure these similarities, we collected this dataset.
 
 ### Who created the dataset (e.g., which team, research group) and on behalf of which entity (e.g., company, institution, organization)?
 
